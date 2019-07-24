@@ -42,7 +42,7 @@
 
 Summary: Snort Log Backend 
 Name: barnyard2
-Version: 1.14
+Version: 1.13packagingfixes
 Source0: https://github.com/firnsy/barnyard2/archive/v2-%{version}.tar.gz
 Release: 1%{?dist}
 License: GPL
